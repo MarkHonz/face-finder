@@ -8,7 +8,7 @@ const FaceRecognition = ({ imageUrl, box }) => {
 				<img
 					id="input-image"
 					src={imageUrl}
-					alt="sum dum peeps"
+					alt="Enter Pic"
 					width="500px"
 					height="auto"
 				/>
